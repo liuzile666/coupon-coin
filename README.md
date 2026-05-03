@@ -161,8 +161,7 @@ If you are evaluating this as a potential investor or partner — please talk to
 ## Credits
 
 **Author**
-Liu Zile (Aiden) · UID 3036575582
-MSc in Industrial Data Analytics and Technology · HKU
+Liu Zile (Aiden) · UID 3036575582 HKU
 
 **Supervisor**
 Prof. Jimmy Chan · The University of Hong Kong
