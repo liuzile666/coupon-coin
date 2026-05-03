@@ -24,7 +24,7 @@ If you just landed here, read the **[Prologue](#prologue--why-this-exists)** bel
 
 ## Prologue — why this exists
 
-In the summer of 2024, I watched a grandmother in Sheung Wan stand outside a Y Carry smart locker with a paper coupon she could not use.
+In the summer of 2025, I watched a grandmother in Sheung Wan stand outside a Y Carry smart locker with a paper coupon she could not use.
 
 The coupon was for a dim sum shop three stops down the MTR. It had expired six days ago. She did not notice. Nobody noticed — because nobody was ever supposed to. The industry she had just lost two dollars to is worth **91.4 billion dollars a year**, and **97 out of every 100** coupons like hers will never be redeemed. In the United States alone, that structural failure burns half a billion dollars annually. It has gone unfixed for two decades because the people losing the money are not the people issuing it.
 
