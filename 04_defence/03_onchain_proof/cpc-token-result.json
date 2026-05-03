@@ -1,0 +1,91 @@
+{
+  "token": {
+    "name": "Coupon Coin",
+    "symbol": "CPC",
+    "decimals": 6,
+    "mintAddress": "8W9pbRE8aPQZo89Fei36UcK7p8e9w8iTtjNc6QcBGGeJ",
+    "totalSupply": 200000000,
+    "pricing": "1 CPC = 0.1 USDT",
+    "totalMarketCap": "20,000,000 USDT"
+  },
+  "authorities": {
+    "mintAuthority": "5tAjqgNkBaMjzy388LtZQF41AfDprCqcYPfjrRSQxHcG",
+    "freezeAuthority": "5tAjqgNkBaMjzy388LtZQF41AfDprCqcYPfjrRSQxHcG"
+  },
+  "deployer": {
+    "publicKey": "5tAjqgNkBaMjzy388LtZQF41AfDprCqcYPfjrRSQxHcG",
+    "solBalance": 0.98134852,
+    "tokenBalance": "200,000,000 CPC"
+  },
+  "blockchain": {
+    "network": "devnet",
+    "rpcUrl": "https://devnet.helius-rpc.com/?api-key=afc1b7aa-d7c5-4881-b786-fb54f26a8b12"
+  },
+  "links": {
+    "token": "https://solscan.io/token/8W9pbRE8aPQZo89Fei36UcK7p8e9w8iTtjNc6QcBGGeJ?cluster=devnet",
+    "wallet": "https://solscan.io/account/5tAjqgNkBaMjzy388LtZQF41AfDprCqcYPfjrRSQxHcG?cluster=devnet",
+    "mintTx": "https://solscan.io/tx/32HktAAWGvgKrbVzgymuuuDViWtDLiKb4KJ4sbhEwxowU341bdbXSu82c8DbpPHPK939ZfWVeEiJFEKBmhobK49V?cluster=devnet"
+  },
+  "distribution": {
+    "publicFundraising": {
+      "label": "Public Fundraising",
+      "pct": 20,
+      "amount": 40000000
+    },
+    "teamRewards": {
+      "label": "Team Rewards",
+      "pct": 15,
+      "amount": 30000000
+    },
+    "financialReserves": {
+      "label": "Financial Reserves",
+      "pct": 15,
+      "amount": 30000000
+    },
+    "liquidityProvision": {
+      "label": "Liquidity Provision",
+      "pct": 13,
+      "amount": 26000000
+    },
+    "stakingRewards": {
+      "label": "Staking Rewards",
+      "pct": 8,
+      "amount": 16000000
+    },
+    "marketing": {
+      "label": "Marketing",
+      "pct": 6,
+      "amount": 12000000
+    },
+    "earlyBirdSale": {
+      "label": "Early Bird Sale",
+      "pct": 5,
+      "amount": 10000000
+    },
+    "airdrop": {
+      "label": "Airdrop",
+      "pct": 5,
+      "amount": 10000000
+    },
+    "advisoryTeam": {
+      "label": "Advisory Team",
+      "pct": 5,
+      "amount": 10000000
+    },
+    "seedRoundInvestors": {
+      "label": "Seed Round",
+      "pct": 5,
+      "amount": 10000000
+    },
+    "influencerRound": {
+      "label": "Influencer Round",
+      "pct": 3,
+      "amount": 6000000
+    }
+  },
+  "timestamps": {
+    "tokenCreated": "2026-05-03T11:38:01.425Z",
+    "minted": "2026-05-03T11:38:13.000Z",
+    "verified": "2026-05-03T13:09:16.258Z"
+  }
+}

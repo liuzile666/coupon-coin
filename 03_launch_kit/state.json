@@ -1,0 +1,15 @@
+{
+  "mintAddress": "8W9pbRE8aPQZo89Fei36UcK7p8e9w8iTtjNc6QcBGGeJ",
+  "tokenCreated": true,
+  "tokenCreatedTime": "2026-05-03T11:38:01.425Z",
+  "tokenAccount": "kAMC2NiXiUTJfrMhcauQqsoR8qvt2ZyeUMwZUUrRSez",
+  "mintTxSignature": "32HktAAWGvgKrbVzgymuuuDViWtDLiKb4KJ4sbhEwxowU341bdbXSu82c8DbpPHPK939ZfWVeEiJFEKBmhobK49V",
+  "totalMinted": 200000000,
+  "mintCompleted": true,
+  "mintTime": "2026-05-03T11:38:13.000Z",
+  "metadataAccount": "8XnM3aa63m1Cgujne8BSjcC7cdp46Qfz9eB6bnTeVMr8",
+  "metadataTxSignature": "4s6k6QiuT8JtBj9CVewDwMJzau7urLeb5s1zLHUsrCynsehZD9CvFXyDJcu1vGStUEFCyEgsMtois8tw8pFbjfXr",
+  "metadataUri": "https://raw.githubusercontent.com/liuzile666/cpc-token-assets/main/cpc-metadata.json",
+  "metadataCompleted": true,
+  "metadataTime": "2026-05-03T11:48:25.853Z"
+}

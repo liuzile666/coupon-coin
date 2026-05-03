@@ -1,0 +1,22 @@
+{
+  "name": "Coupon Coin",
+  "symbol": "CPC",
+  "description": "Coupon Coin (CPC) is a Solana-based utility token designed for the Y Carry Smart Locker ecosystem. Tokenising incentives in physical infrastructure. Free your hands, hold your love.",
+  "image": "https://raw.githubusercontent.com/liuzile666/cpc-token-assets/main/cpc-logo.png",
+  "external_url": "https://ycarry.club",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Token Standard", "value": "SPL" },
+    { "trait_type": "Total Supply", "value": "200,000,000" },
+    { "trait_type": "Ecosystem", "value": "Y Carry Smart Locker" }
+  ],
+  "properties": {
+    "category": "fungible",
+    "creators": [
+      {
+        "address": "5tAjqgNkBaMjzy388LtZQF41AfDprCqcYPfjrRSQxHcG",
+        "share": 100
+      }
+    ]
+  }
+}

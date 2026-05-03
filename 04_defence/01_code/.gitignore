@@ -1,0 +1,9 @@
+# ⚠️ NEVER commit private keys
+deployer.json
+state.json
+cpc-token-result.json
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log*

@@ -1,0 +1,24 @@
+{
+  "name": "cpc-token-kit",
+  "version": "1.0.0",
+  "description": "Y Carry - Coupon Coin Launch Kit (Solana Devnet)",
+  "scripts": {
+    "setup": "node scripts/01-setup-wallet.js",
+    "create-token": "node scripts/02-create-token.js",
+    "mint": "node scripts/03-mint-tokens.js",
+    "check": "node scripts/04-continue-after-airdrop.js",
+    "verify": "node scripts/05-verify.js",
+    "add-metadata": "node scripts/06-add-metadata.js",
+    "all": "node scripts/01-setup-wallet.js && node scripts/02-create-token.js && node scripts/03-mint-tokens.js && node scripts/05-verify.js",
+    "launch": "node scripts/launch-all.js"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.3.0",
+    "@metaplex-foundation/umi": "^0.9.2",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.2",
+    "@metaplex-foundation/umi-web3js-adapters": "^0.9.2",
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0"
+  }
+}

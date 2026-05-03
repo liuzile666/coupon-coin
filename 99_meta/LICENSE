@@ -1,0 +1,62 @@
+Coupon Coin — Mixed Licensing
+==============================
+
+This repository contains different kinds of work, licensed differently.
+
+------------------------------------------------------------------------
+
+1. Academic text
+   Applies to: 01_dissertation/, 02_whitepaper/
+
+   © 2026 Liu Zile (刘子乐). All rights reserved.
+   Released for educational reference. Not to be redistributed commercially.
+   Attribution required when quoting.
+
+------------------------------------------------------------------------
+
+2. Code
+   Applies to: 03_launch_kit/, 04_defence/01_code/, 05_site/,
+               01_dissertation/*.js, 01_dissertation/*.py, 06_figures/*.py
+
+   MIT License
+
+   Copyright (c) 2026 Liu Zile
+
+   Permission is hereby granted, free of charge, to any person obtaining
+   a copy of this software and associated documentation files (the
+   "Software"), to deal in the Software without restriction, including
+   without limitation the rights to use, copy, modify, merge, publish,
+   distribute, sublicense, and/or sell copies of the Software, and to
+   permit persons to whom the Software is furnished to do so, subject to
+   the following conditions:
+
+   The above copyright notice and this permission notice shall be
+   included in all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------------------
+
+3. Figures and logos
+   Applies to: 06_figures/*.png, assets/cpc-logo.png
+
+   CC BY 4.0 — Creative Commons Attribution 4.0 International
+   https://creativecommons.org/licenses/by/4.0/
+
+   You may share and adapt with attribution:
+   "Coupon Coin figures — Liu Zile, HKU 2026"
+
+------------------------------------------------------------------------
+
+4. On-chain deployment
+   The Coupon Coin token deployed at
+   8W9pbRE8aPQZo89Fei36UcK7p8e9w8iTtjNc6QcBGGeJ is on Solana Devnet only.
+   It has no mainnet counterpart, no exchange listing, no monetary value,
+   and is not a financial instrument. Do not buy it from anyone claiming
+   it is.
