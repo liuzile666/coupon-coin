@@ -24,7 +24,7 @@ If you just landed here, read the **[Prologue](#prologue--why-this-exists)** bel
 
 ## Prologue — why this exists
 
-In the summer of 2025, I watched a grandmother in Sheung Wan stand outside a Y Carry smart locker with a paper coupon she could not use.
+In the summer of 2024, I watched a grandmother in Sheung Wan stand outside a Y Carry smart locker with a paper coupon she could not use.
 
 The coupon was for a dim sum shop three stops down the MTR. It had expired six days ago. She did not notice. Nobody noticed — because nobody was ever supposed to. The industry she had just lost two dollars to is worth **91.4 billion dollars a year**, and **97 out of every 100** coupons like hers will never be redeemed. In the United States alone, that structural failure burns half a billion dollars annually. It has gone unfixed for two decades because the people losing the money are not the people issuing it.
 
@@ -161,7 +161,8 @@ If you are evaluating this as a potential investor or partner — please talk to
 ## Credits
 
 **Author**
-Liu Zile (Aiden) · UID 3036575582 HKU
+Liu Zile (Aiden) · UID 3036575582
+MSc in Industrial Data Analytics and Technology · HKU
 
 **Supervisor**
 Prof. Jimmy Chan · The University of Hong Kong
@@ -172,10 +173,23 @@ Y Carry Limited · Hong Kong
 **Built with**
 Solana · Metaplex Token Metadata · SPL Token · Umi SDK · Phantom · Node.js · Python · Matplotlib · python-docx · Playfair Display · Inter
 
-**Thanks**
-To Prof. Chan, for asking the question that became chapter 3.
-To the Y Carry team, for putting real hardware under what could otherwise have been a slide deck.
-To the grandmother in Sheung Wan.
+---
+
+## Acknowledgements
+
+A project like this does not belong to the name on the cover page. It belongs to the people who stood close enough to see it falter and chose to keep standing there anyway.
+
+**To Prof. Jimmy Chan** — more than a supervisor. You were the one who handed me the question that became chapter three, the conversation that became chapter four, and the pointed silence that forced me to rewrite chapter five three times until it finally said something. But your influence reached past the dissertation. You talked to me about careers the way most advisors talk about citations — carefully, specifically, and with a generosity I did not expect. The decisions I will make in the next decade are going to be shaped by the ones you quietly taught me to make in this one. Thank you for being a supervisor of the work and, at the same time, a supervisor of the person doing the work.
+
+**To Chen Yijun and Gao Zijun** — you did not write a line of this project, and you do not need to. What you gave me was rarer. When I came to you with an idea that sounded too ambitious to say out loud, you did not flinch. When I doubted, you believed for me until I could believe for myself again. You tolerated the late-night messages, the half-formed thoughts, the version of me that was too tired to be good company. The resilience in this work is not mine alone — it is yours, on loan, returned with interest. If there is a single reason I did not quit in March when nothing was working, it is because you two were on the other end of the line. I owe you more than a line in a README.
+
+**To my two teammates** — thank you for the hours in the studio that no one outside will ever see, for the patience when my pace and yours did not match, and for the quiet trust that let each of us own the parts we were best at without stepping on each other. Capstones are supposed to test whether you can work with people. You made me realise I already could, because I was working with the right ones.
+
+**To the Y Carry team** — for putting real hardware under what could have so easily stayed a slide deck. Every figure in chapter five rests on the fact that your lockers actually exist, actually take payments, actually unlock for real people in real MTR stations. Academic work about physical infrastructure gets rare in a world that runs mostly on abstractions. Thank you for keeping mine grounded.
+
+**To the grandmother in Sheung Wan** — whose name I do not know and whose expired coupon became the first paragraph of the dissertation. I hope by the time CPC reaches mainnet, someone like you never has to experience that small, invisible kind of being overlooked.
+
+**And to my family** — for the thousand small things that do not fit into footnotes. Thank you.
 
 ---
 
